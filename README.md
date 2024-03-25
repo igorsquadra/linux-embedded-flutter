@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# linux-embedded-flutter
-=======
 # linux_embedded_flutter
 
 A new Flutter project.
